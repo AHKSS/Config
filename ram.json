@@ -1,0 +1,30 @@
+{
+  "arananlar": [
+    {
+      "name": "DDR5 Ram 16/24/32 GB",
+      "keywords": ["ddr5"],
+      "aliases": [
+        "ddr5 ram",
+        "ddr5 bellek",
+        "ddr5 kit",
+        "32 gb ddr5",
+        "32gb ddr5",
+        "16 gb ddr5",
+        "16gb ddr5",
+        "24 gb ddr5",
+        "24gb ddr5"
+      ],
+      "filters": {
+        "memory_gb": [16, 24, 32],
+        "max_price": 20000
+      }
+    },
+    {
+      "name": "RX 9070 XT",
+      "query": "RX 9070 XT",
+      "filters": {
+        "max_price": 35000
+      }
+    }
+  ]
+}
