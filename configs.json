@@ -5,7 +5,7 @@
       "query": "DDR5 RAM",
       "filters": {
         "memory_gb": [16, 24, 32],
-        "max_price": 3000
+        "max_price": 30000
       }
     },
     {
