@@ -25,6 +25,20 @@
       "filters": {
         "max_price": 35000
       }
+    },
+    {
+      "name": "AMD Ryzen 7 7800X3D",
+      "keywords": ["7800x3d"],
+      "aliases": [
+        "ryzen 7 7800x3d",
+        "amd ryzen 7 7800x3d",
+        "7800 x3d",
+        "7800x3d işlemci",
+        "7800x3d cpu"
+      ],
+      "filters": {
+        "max_price": 18000
+      }
     }
   ]
 }
