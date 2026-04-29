@@ -1,0 +1,17 @@
+ARANANLAR = [
+    {
+        "name": "DDR5 Ram 16/24/32 GB",
+        "query": "DDR5 RAM",
+        "filters": {
+            "memory_gb": [16, 24, 32],
+            "max_price": 15000
+        }
+    },
+    {
+        "name": "RX 9070 XT",
+        "query": "Ryzen 9 9950X3D",
+        "filters": {
+            "max_price": 35000
+        }
+    }
+]
